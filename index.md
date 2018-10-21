@@ -152,6 +152,15 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   attempt to provide them.
 </p>
 
+<p id="instructors">
+  <strong>Instructors:</strong> 
+</p>
+<ul>
+  <li>Kenneth Babu - Linux Shell and Python</li>
+  <li>Samar Elsheikh - Python</li>
+  <li>Ziyaad Parker / Mamana Mbiyavanga - Python</li>
+</ul>
+
 {% comment %}
   CONTACT EMAIL ADDRESS
 
