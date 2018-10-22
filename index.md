@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"
-venue: "UCT Faculty of Health Sciences - Postgrad Room 2"
+venue: "UCT Faculty of Health Sciences - Postgraduate Room 2"
 address: "Barnard Fuller Building, Anzio Road, Observatory, Cape Town"
 country: "za"
 language: "en"
