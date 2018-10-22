@@ -7,7 +7,7 @@ country: "za"
 language: "en"
 latlng: "-33.937550,18.519330"
 humandate: "October 30-31, 2018"
-humantime: "9:00 am - 4:30 pm"
+humantime: "8:45 am - 4:30 pm"
 startdate: 2018-10-30
 enddate: 2018-10-31
 instructor: ["Samar Elsheikh", "Kenneth Babu", "Mamana Mbiyavanga", "Ziyaad Parker"]
